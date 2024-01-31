@@ -10,7 +10,7 @@ This project is a simple traffic light system built using an Arduino board and t
 # Software Requirements
 - Arduino IDE (or similar software for uploading code to the Arduino board)
 # How to Use
-1. Connect the LEDs and resistors to the Arduino board as shown in the schematic (included in the repository).
+1. Connect the LEDs and resistors to the Arduino board as shown in the schematic (included in the repository). ![](schematic.png)
 2. Open the Arduino IDE and upload the code to the board.
 3. Power on the board and the traffic light system will begin cycling through the green, yellow, and red lights.
 # Video
